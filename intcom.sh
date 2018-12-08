@@ -23,3 +23,6 @@ done
 # Print the calculated values 
 echo "Total: $total"
 echo "Count under 10: $count"
+
+# DB: Good! My only comment is that it would be easier if the numbers could be passed
+#     directly as command-line arguments.
